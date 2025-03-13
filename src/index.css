@@ -1,0 +1,37 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Spicy+Rice&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import "tailwindcss";
+
+body {
+    background-image: url("/bg.jpg"); /* Path from public folder */
+    background-size: cover; /* Cover the whole screen */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* No repeating */
+    min-height: 100vh; /* Full height */
+  }
+
+.heading {
+  font-family: "Kanit", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.subHeading {
+  font-family: "Merriweather", serif;
+  font-optical-sizing: auto;
+}
+
+.subHeading1{
+  font-family: "Spicy Rice", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.gFonts {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
