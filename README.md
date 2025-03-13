@@ -16,5 +16,5 @@ iTask is a simple and user-friendly Todo List application designed to help users
 - **Task prioritization**: Users can set priorities for tasks to stay organized.
 
 ## Technologies Used
-- **Frontend**: React, HTML, Tailwindcss
+- **Frontend**: React, HTML, Tailwindcss, Javascript
 - **State Management**: React hooks (useState, useEffect)
